@@ -2,10 +2,12 @@
 Apache Kafka commands
 
 Start Zookeeper
+
 Windows: zookeeper-server-start.bat ..\..\config\zookeeper.properties
 Mac: ./zookeeper-server-start.sh ../config/zookeeper.properties
 
 Start Kafka broker
+
 Windows: kafka-server-start.bat ..\..\config\server.properties
 Mac: ./kafka-server-start.sh ../config/server.properties
 
